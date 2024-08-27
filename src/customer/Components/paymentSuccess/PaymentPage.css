@@ -1,0 +1,42 @@
+/* PaymentPage.css */
+
+.payment-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+    padding: 1rem;
+}
+
+.payment-form-card {
+    width: 100%;
+    max-width: 500px;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.payment-form-card .MuiTypography-h6 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.payment-form-card .MuiFormControl-root {
+    margin-bottom: 1rem;
+}
+
+.payment-form-card .MuiRadio-root {
+    margin-right: 1rem;
+}
+
+.payment-form-card .MuiTextField-root {
+    margin-bottom: 1rem;
+}
+
+.payment-form-card .MuiButton-root {
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+}

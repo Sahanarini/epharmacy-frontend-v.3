@@ -1,0 +1,13 @@
+/* styles.css */
+.section3-container {
+    display: flex;
+    gap: 16px; /* Adjust the spacing between cards */
+  }
+  
+  .section3-card {
+    flex: 1;
+    background-color: #f0f0f0; /* Example background color */
+    padding: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  }
+  

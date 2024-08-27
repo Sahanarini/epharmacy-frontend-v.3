@@ -1,0 +1,37 @@
+.footer {
+    background-color: #343a40; /* Dark background for footer */
+}
+
+.footer h5 {
+    color: #ffffff;
+    margin-bottom: 1rem;
+}
+
+.footer .nav-link {
+    color: #cfcfcf;
+}
+
+.footer .nav-link:hover {
+    color: #ffffff;
+}
+
+.footer .social-icons {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .social-icons .nav-link {
+    margin-bottom: 0.5rem;
+}
+
+.footer form {
+    margin-top: 1rem;
+}
+
+.footer form .form-control {
+    border-radius: 0;
+}
+
+.footer form .btn {
+    border-radius: 0;
+}
